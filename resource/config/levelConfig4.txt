@@ -1,0 +1,4 @@
+id	name	lv
+17	level_17	17
+18	level_18	18
+19	level_19	19

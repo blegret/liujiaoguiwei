@@ -1,0 +1,15 @@
+{"file":"npcRES.png","frames":{
+"changeTriangle_png":{"x":200,"y":176,"w":37,"h":46,"offX":0,"offY":0,"sourceW":37,"sourceH":46},
+"greenEmpty_png":{"x":100,"y":176,"w":98,"h":86,"offX":0,"offY":0,"sourceW":98,"sourceH":86},
+"greenNpc_png":{"x":0,"y":176,"w":98,"h":86,"offX":0,"offY":0,"sourceW":98,"sourceH":86},
+"pinkEmpty_png":{"x":400,"y":88,"w":98,"h":86,"offX":0,"offY":0,"sourceW":98,"sourceH":86},
+"pinkNpc_png":{"x":300,"y":88,"w":98,"h":86,"offX":0,"offY":0,"sourceW":98,"sourceH":86},
+"redEmpty_png":{"x":200,"y":88,"w":98,"h":86,"offX":0,"offY":0,"sourceW":98,"sourceH":86},
+"redNpc_png":{"x":100,"y":88,"w":98,"h":86,"offX":0,"offY":0,"sourceW":98,"sourceH":86},
+"shadow_png":{"x":0,"y":88,"w":98,"h":86,"offX":0,"offY":0,"sourceW":98,"sourceH":86},
+"shadowEmpty_png":{"x":400,"y":0,"w":98,"h":86,"offX":0,"offY":0,"sourceW":98,"sourceH":86},
+"triangle_png":{"x":239,"y":176,"w":30,"h":38,"offX":0,"offY":0,"sourceW":30,"sourceH":38},
+"yellowEmpty_png":{"x":300,"y":0,"w":98,"h":86,"offX":0,"offY":0,"sourceW":98,"sourceH":86},
+"yellowNpc_png":{"x":200,"y":0,"w":98,"h":86,"offX":0,"offY":0,"sourceW":98,"sourceH":86},
+"blueEmpty_png":{"x":100,"y":0,"w":98,"h":86,"offX":0,"offY":0,"sourceW":98,"sourceH":86},
+"blueNpc_png":{"x":0,"y":0,"w":98,"h":86,"offX":0,"offY":0,"sourceW":98,"sourceH":86}}}

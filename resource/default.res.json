@@ -1,0 +1,323 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,grass_png,grassLand_png,grassLandMask_png,land_png,loadBg_jpg,bgRES_json,btnRES_json,level_json,npcRES_json,levelConfig_txt,levelConfig1_txt,levelConfig2_txt,levelConfig3_txt,levelConfig4_txt,soundClick_mp3,soundLvlCompleted_mp3,soundMove1_mp3,soundMove2_mp3,soundMove3_mp3,soundMove4_mp3,soundMove5_mp3,soundMove6_mp3,soundMove7_mp3,help_1_png,help_png,baseScore_png,click1_png,ikonwBtn_png,quickLevel_png,reset_png,revoke_png,score_png,skipBtn_png,tips2_png,tips5_png",
+			"name": "preload"
+		},
+		{
+			"keys": "loadBg_jpg,land_png,grassLandMask_png,grassLand_png,grass_png",
+			"name": "loading"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/loadViewWidth/grass.png",
+			"type": "image",
+			"name": "grass_png"
+		},
+		{
+			"url": "assets/loadViewWidth/grassLand.png",
+			"type": "image",
+			"name": "grassLand_png"
+		},
+		{
+			"url": "assets/loadViewWidth/grassLandMask.png",
+			"type": "image",
+			"name": "grassLandMask_png"
+		},
+		{
+			"url": "assets/loadViewWidth/land.png",
+			"type": "image",
+			"name": "land_png"
+		},
+		{
+			"url": "assets/loadViewWidth/loadBg.jpg",
+			"type": "image",
+			"name": "loadBg_jpg"
+		},
+		{
+			"name": "bgRES_json",
+			"type": "sheet",
+			"url": "assets/Game/backgroundRES/bgRES.json",
+			"subkeys": "bg_png,gameName_png,jiangbei_png"
+		},
+		{
+			"name": "btnRES_json",
+			"type": "sheet",
+			"url": "assets/Game/btnRES/btnRES.json",
+			"subkeys": "caidan_png,chehui_png,chonglai_png,guan_png,kai_png,kaishi_png,back_png"
+		},
+		{
+			"name": "level_json",
+			"type": "sheet",
+			"url": "assets/Game/level/level.json",
+			"subkeys": "level_2_png,level_3_png,level_4_png,level_5_png,level_6_png,level_7_png,level_8_png,level_9_png,level_10_png,level_11_png,level_12_png,level_13_png,level_14_png,level_15_png,level_16_png,level_17_png,level_18_png,level_19_png,level_1_png"
+		},
+		{
+			"name": "npcRES_json",
+			"type": "sheet",
+			"url": "assets/Game/npcRES/npcRES.json",
+			"subkeys": "changeTriangle_png,greenEmpty_png,greenNpc_png,pinkEmpty_png,pinkNpc_png,redEmpty_png,redNpc_png,shadow_png,shadowEmpty_png,triangle_png,yellowEmpty_png,yellowNpc_png,blueEmpty_png,blueNpc_png"
+		},
+		{
+			"name": "levelConfig_txt",
+			"type": "text",
+			"url": "config/levelConfig.txt"
+		},
+		{
+			"name": "levelConfig1_txt",
+			"type": "text",
+			"url": "config/levelConfig1.txt"
+		},
+		{
+			"name": "levelConfig2_txt",
+			"type": "text",
+			"url": "config/levelConfig2.txt"
+		},
+		{
+			"name": "levelConfig3_txt",
+			"type": "text",
+			"url": "config/levelConfig3.txt"
+		},
+		{
+			"name": "levelConfig4_txt",
+			"type": "text",
+			"url": "config/levelConfig4.txt"
+		},
+		{
+			"name": "soundClick_mp3",
+			"type": "sound",
+			"url": "assets/Sound/soundClick.mp3"
+		},
+		{
+			"name": "soundLvlCompleted_mp3",
+			"type": "sound",
+			"url": "assets/Sound/soundLvlCompleted.mp3"
+		},
+		{
+			"name": "soundMove1_mp3",
+			"type": "sound",
+			"url": "assets/Sound/soundMove1.mp3"
+		},
+		{
+			"name": "soundMove2_mp3",
+			"type": "sound",
+			"url": "assets/Sound/soundMove2.mp3"
+		},
+		{
+			"name": "soundMove3_mp3",
+			"type": "sound",
+			"url": "assets/Sound/soundMove3.mp3"
+		},
+		{
+			"name": "soundMove4_mp3",
+			"type": "sound",
+			"url": "assets/Sound/soundMove4.mp3"
+		},
+		{
+			"name": "soundMove5_mp3",
+			"type": "sound",
+			"url": "assets/Sound/soundMove5.mp3"
+		},
+		{
+			"name": "soundMove6_mp3",
+			"type": "sound",
+			"url": "assets/Sound/soundMove6.mp3"
+		},
+		{
+			"name": "soundMove7_mp3",
+			"type": "sound",
+			"url": "assets/Sound/soundMove7.mp3"
+		},
+		{
+			"name": "help_1_png",
+			"type": "image",
+			"url": "assets/Game/npcRES/help_1.png"
+		},
+		{
+			"name": "help_png",
+			"type": "image",
+			"url": "assets/Game/btnRES/help.png"
+		},
+		{
+			"name": "baseScore_png",
+			"type": "image",
+			"url": "assets/Game/guideRES/baseScore.png"
+		},
+		{
+			"name": "click1_png",
+			"type": "image",
+			"url": "assets/Game/guideRES/click1.png"
+		},
+		{
+			"name": "ikonwBtn_png",
+			"type": "image",
+			"url": "assets/Game/guideRES/ikonwBtn.png"
+		},
+		{
+			"name": "quickLevel_png",
+			"type": "image",
+			"url": "assets/Game/guideRES/quickLevel.png"
+		},
+		{
+			"name": "reset_png",
+			"type": "image",
+			"url": "assets/Game/guideRES/reset.png"
+		},
+		{
+			"name": "revoke_png",
+			"type": "image",
+			"url": "assets/Game/guideRES/revoke.png"
+		},
+		{
+			"name": "score_png",
+			"type": "image",
+			"url": "assets/Game/guideRES/score.png"
+		},
+		{
+			"name": "skipBtn_png",
+			"type": "image",
+			"url": "assets/Game/guideRES/skipBtn.png"
+		},
+		{
+			"name": "tips2_png",
+			"type": "image",
+			"url": "assets/Game/guideRES/tips2.png"
+		},
+		{
+			"name": "tips5_png",
+			"type": "image",
+			"url": "assets/Game/guideRES/tips5.png"
+		}
+	]
+}
